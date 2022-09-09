@@ -17,7 +17,7 @@ class GFG {
             // Inner nested loop pointing 1 index ahead
             for (int j = i + 1; j < arr.length; j++) {
  
-                // Checking elements
+                // Checking element
                 int temp = 0;
                 if (arr[j] < arr[i]) {
  
